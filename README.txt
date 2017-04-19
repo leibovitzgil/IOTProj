@@ -23,3 +23,10 @@ attach the following:
 you also have to download the RF24 library from the following link : https://github.com/maniacbug/RF24
 
 once you've downloaded it, unzip it and insert into the ../Arduino/libraries folder
+
+
+
+
+####################################################
+good link for communication between Arduino and Raspberry Pi3 :
+http://invent.module143.com/daskal_tutorial/rpi-3-tutorial-14-wireless-pi-to-arduino-communication-with-nrf24l01/
