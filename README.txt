@@ -30,3 +30,8 @@ once you've downloaded it, unzip it and insert into the ../Arduino/libraries fol
 ####################################################
 good link for communication between Arduino and Raspberry Pi3 :
 http://invent.module143.com/daskal_tutorial/rpi-3-tutorial-14-wireless-pi-to-arduino-communication-with-nrf24l01/
+
+
+#####################################################
+good link for the valve :
+http://www.bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/
