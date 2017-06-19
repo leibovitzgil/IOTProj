@@ -77,7 +77,7 @@ void loop()
     Serial.println(data.text);
 
     MQTT_connect();
-    temp.publish(data.text);
+    temp.publish(data.temperature);
 
     mqtt.ping();
   }
